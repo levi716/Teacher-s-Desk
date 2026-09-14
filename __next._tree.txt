@@ -1,2 +1,2 @@
 :HL["/Teacher-s-Desk/_next/static/chunks/08vd4yb5xq0y-.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"bdHsJvlJl3VLnUKXw55PY"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"pHouAeWv9-kLZTglnlfXe"}
