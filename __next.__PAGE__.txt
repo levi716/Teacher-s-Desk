@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
 2:I[10227,["/Teacher-s-Desk/_next/static/chunks/0eog50~01kpo8.js","/Teacher-s-Desk/_next/static/chunks/17f2ht9wo-phb.js"],"ClientPageRoot"]
-3:I[31713,["/Teacher-s-Desk/_next/static/chunks/0eog50~01kpo8.js","/Teacher-s-Desk/_next/static/chunks/17f2ht9wo-phb.js","/Teacher-s-Desk/_next/static/chunks/0gaxh-s--g6_k.js"],"default"]
+3:I[31713,["/Teacher-s-Desk/_next/static/chunks/0eog50~01kpo8.js","/Teacher-s-Desk/_next/static/chunks/17f2ht9wo-phb.js","/Teacher-s-Desk/_next/static/chunks/0qfqfm~1uflv8.js"],"default"]
 6:I[6391,["/Teacher-s-Desk/_next/static/chunks/0eog50~01kpo8.js","/Teacher-s-Desk/_next/static/chunks/17f2ht9wo-phb.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/Teacher-s-Desk/_next/static/chunks/0.osmy~w78k57.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/Teacher-s-Desk/_next/static/chunks/0.osmy~w78k57.css","precedence":"next"}],["$","script","script-0",{"src":"/Teacher-s-Desk/_next/static/chunks/0gaxh-s--g6_k.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ErYg1mjSKRpUZbIpSdKBH"}
+:HL["/Teacher-s-Desk/_next/static/chunks/0b9~mx7qy~p6n.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/Teacher-s-Desk/_next/static/chunks/0b9~mx7qy~p6n.css","precedence":"next"}],["$","script","script-0",{"src":"/Teacher-s-Desk/_next/static/chunks/0qfqfm~1uflv8.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bRz8GHuTy526Lt666P3E3"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
